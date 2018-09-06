@@ -12,7 +12,12 @@ Daily data of stocks, including openning price and closing price, can be easily 
 
 ## 2. Mothods
 ### 2.1 Data pre-processing methods (text)
-
+#### Words segmentation/tokenization
+#### Words/tokens embedding
+#### LSTM on sentance level+mean-pooling on articles / LSTM on article level
+##### to be chosed
+#### 
+#### 
 
 
 

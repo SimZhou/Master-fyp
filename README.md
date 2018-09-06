@@ -9,8 +9,10 @@ potential platforms to be chosed:
 ### 1.2 Market data
 Daily data of stocks, including openning price and closing price, can be easily fetched from various of platforms
 
+</br>
 ## 2. Mothods
-###2.1 Data pre-processing methods (text)
+### 2.1 Data pre-processing methods (text)
+
 
 
 

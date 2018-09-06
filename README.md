@@ -10,10 +10,9 @@ potential platforms to be chosed:
 Daily data of stocks, including openning price and closing price, can be easily fetched from various of platforms.
 
 ### 1.3 Technical Indicators & Macro-environment Factors
-<font color=gray size=1> * might not have sufficient time to do this but important for research purpose </font>
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
+[#f03c15] * might not have sufficient time to do this but important for research purpose `#f03c15`
+
+
 ## 2. Mothods
 ### 2.1 Data pre-processing methods (text)
 #### -Words segmentation/tokenization
@@ -51,3 +50,7 @@ Daily data of stocks, including openning price and closing price, can be easily 
 [NLP 笔记 - Dependency Parsing and Treebank](http://www.shuang0420.com/2017/03/09/NLP%20%E7%AC%94%E8%AE%B0%20-%20Dependency%20Parsing%20and%20Treebank/) </br>
 [Markdown 语法大全 包括设置字体 颜色](https://blog.csdn.net/qcx321/article/details/53780672#commentBox) </br>
 [The Ultimate Guide to Markdown](https://blog.ghost.org/markdown/) </br>
+
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`

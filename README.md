@@ -20,10 +20,13 @@ Daily data of stocks, including openning price and closing price, can be easily 
 #### - LSTM on sentance level+mean-pooling on articles / LSTM on article level (to be chosed)
 #### 
 ### 2.2 Trainning Models
-To label the data by different ways we could have totally different ways
-1. dd
-2. dd
-
+To label the data by different ways we could have totally different ways: 
+a. label the data for a particular sentiment orientation (e.g. 1 for positive, 0 for negative)
+    pros: logically reasonable - positive/negative sentiment can affect stock price 
+    cons: Need to label a lot of articles mannually
+b. label the data by market reaction (e.g. 1 for intra-day raise, 0 for intra-day fall)
+    pros: train the model first and then do mean poo
+    cons: need to do mean-pooling (pooling is really a fancy name for saying calculating the average...) for 
 
 
 

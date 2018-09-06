@@ -10,7 +10,7 @@ potential platforms to be chosed:
 Daily data of stocks, including openning price and closing price, can be easily fetched from various of platforms.
 
 ### 1.3 Technical Indicators & Macro-environment Factors
-[#f03c15] * might not have sufficient time to do this but important for research purpose `#f03c15`
+[#f03c15] `* might not have sufficient time to do this but important for research purpose`
 
 
 ## 2. Mothods

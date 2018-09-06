@@ -19,7 +19,10 @@ Daily data of stocks, including openning price and closing price, can be easily 
 #### - Words/tokens embedding
 #### - LSTM on sentance level+mean-pooling on articles / LSTM on article level (to be chosed)
 #### 
-## 3. 
+### 2.2 Trainning Models
+To label the data by different ways we could have totally different ways
+1. dd
+2. dd
 
 
 

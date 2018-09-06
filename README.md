@@ -9,7 +9,7 @@ potential platforms to be chosed:
 ### 1.2 Market Data
 Daily data of stocks, including openning price and closing price, can be easily fetched from various of platforms.
 
-### 1.3 Technical Indicators & Macro-environment Factors (might not be )
+### 1.3 Technical Indicators & Macro-environment Factors (might not have sufficient time to do this but important for research)
 
 
 ## 2. Mothods
@@ -45,6 +45,7 @@ Daily data of stocks, including openning price and closing price, can be easily 
 </br>
 </br>
 
-### Some other might-be-useful materials
-[NLP 笔记 - Dependency Parsing and Treebank](http://www.shuang0420.com/2017/03/09/NLP%20%E7%AC%94%E8%AE%B0%20-%20Dependency%20Parsing%20and%20Treebank/)
-[Ultimate Guide to Markdown](https://blog.csdn.net/qcx321/article/details/53780672#commentBox)
+### materials
+[NLP 笔记 - Dependency Parsing and Treebank](http://www.shuang0420.com/2017/03/09/NLP%20%E7%AC%94%E8%AE%B0%20-%20Dependency%20Parsing%20and%20Treebank/) </br>
+[Markdown 语法大全 包括设置字体 颜色](https://blog.csdn.net/qcx321/article/details/53780672#commentBox) </br>
+[How to Write Faster, Better & Longer: The Ultimate Guide to Markdown](https://blog.ghost.org/markdown/) </br>

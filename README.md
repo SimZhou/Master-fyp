@@ -58,5 +58,5 @@ Need to train the model on all intra-day articles, this might be a problem, on m
 [NLP 笔记 - Dependency Parsing and Treebank](http://www.shuang0420.com/2017/03/09/NLP%20%E7%AC%94%E8%AE%B0%20-%20Dependency%20Parsing%20and%20Treebank/) </br>
 [Markdown 语法大全 包括设置字体 颜色](https://blog.csdn.net/qcx321/article/details/53780672#commentBox) </br>
 [The Ultimate Guide to Markdown](https://blog.ghost.org/markdown/) </br>
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) </br>
 [Concluding Pooling Methods](https://blog.csdn.net/danieljianfeng/article/details/42433475) </br>

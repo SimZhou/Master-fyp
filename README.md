@@ -11,7 +11,9 @@ Daily data of stocks, including openning price and closing price, can be easily 
 
 ### 1.3 Technical Indicators & Macro-environment Factors
 <font color=gray size=1> * might not have sufficient time to do this but important for research purpose </font>
-$\color{silver}{汉字格式}$
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
 ## 2. Mothods
 ### 2.1 Data pre-processing methods (text)
 #### -Words segmentation/tokenization

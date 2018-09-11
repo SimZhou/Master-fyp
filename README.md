@@ -64,11 +64,18 @@ Need to train the model on all intra-day articles, this might be a problem, on m
 </br>
 </br>
 </br>
-
-#### References：
-
-Shen Li, Zhe Zhao, Renfen Hu, Wensi Li, Tao Liu, Xiaoyong Du, Analogical Reasoning on Chinese Morphological and Semantic Relations, ACL 2018. 
+### Potential References 
+#### Chinese Word-Embedding
+Chinese Word Vectors: Shen Li, Zhe Zhao, Renfen Hu, Wensi Li, Tao Liu, Xiaoyong Du, Analogical Reasoning on Chinese Morphological and Semantic Relations, ACL 2018. https://github.com/Embedding/Chinese-Word-Vectors
+(Refer as: Shen Li, Zhe Zhao, Renfen Hu, Wensi Li, Tao Liu, Xiaoyong Du, Analogical Reasoning on Chinese Morphological and Semantic Relations, ACL 2018. )
+#### Attention Mechanism
 Yang, Z., Yang, D., Dyer, C., He, X., Smola, A. and Hovy, E., 2016. Hierarchical attention networks for document classification. In Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 1480-148
+#### Skip-Gram Model
+[1] Mikolov T, Chen K, Corrado G, et al. Efficient Estimation of Word Representations in Vector Space[J]. Computer Science, 2013.（这篇文章就讲了两个模型：CBOW 和 Skip-gram） 
+[2] Mikolov T, Sutskever I, Chen K, et al. Distributed Representations of Words and Phrases and their Compositionality[J]. 2013, 26:3111-3119.（这篇文章针对Skip-gram模型计算复杂度高的问题提出了一些该进） 
+[3] Presentation on Word2Vec（这是NIPS 2013workshop上Mikolov的PPT报告）
+#### B
+
 
 ### materials
 [NLP 笔记 - Dependency Parsing and Treebank](http://www.shuang0420.com/2017/03/09/NLP%20%E7%AC%94%E8%AE%B0%20-%20Dependency%20Parsing%20and%20Treebank/) </br>

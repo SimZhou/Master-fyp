@@ -1,5 +1,6 @@
 # Master-fyp
 
+
 In this project I will utilize machine learning/deep learning to analyse the relationship between news contents and stock price.
 
 

@@ -3,17 +3,14 @@
 In this project I will utilize machine learning/deep learning to analyse the relationship between news contents and stock price.
 
 
-初步研究框架为：
+Research Steps: 
 1. 抓取大量新闻平台上的股市相关新闻，例如新浪财经，金融界等。
 2. 利用 Li (2018) 等人制作的 pre-trainned 大型中文词向量数据集，进行 Words-embedding。
 3. 采用LSTM，结合近期大热的最早由 Google Brains 在图像处理上提出的 Self-Attensive 自注意力机制，将词向量结合成句向量，再将句向量结合为文向量，最后用激活函数激活。最终训练任务为预测股市的涨跌（0,1分类）。(Yang, etc., 2016)
 4. 在模型中或许会考虑加入技术面因素，以完善模型精准度。
 使用的工具为Python，平台为Tensorflow。
 
-References：
 
-Shen Li, Zhe Zhao, Renfen Hu, Wensi Li, Tao Liu, Xiaoyong Du, Analogical Reasoning on Chinese Morphological and Semantic Relations, ACL 2018. 
-Yang, Z., Yang, D., Dyer, C., He, X., Smola, A. and Hovy, E., 2016. Hierarchical attention networks for document classification. In Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 1480-148
 
 ## 1. Data Source
 ### 1.1 News Data
@@ -66,6 +63,11 @@ Need to train the model on all intra-day articles, this might be a problem, on m
 </br>
 </br>
 </br>
+
+#### References：
+
+Shen Li, Zhe Zhao, Renfen Hu, Wensi Li, Tao Liu, Xiaoyong Du, Analogical Reasoning on Chinese Morphological and Semantic Relations, ACL 2018. 
+Yang, Z., Yang, D., Dyer, C., He, X., Smola, A. and Hovy, E., 2016. Hierarchical attention networks for document classification. In Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 1480-148
 
 ### materials
 [NLP 笔记 - Dependency Parsing and Treebank](http://www.shuang0420.com/2017/03/09/NLP%20%E7%AC%94%E8%AE%B0%20-%20Dependency%20Parsing%20and%20Treebank/) </br>

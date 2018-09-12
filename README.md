@@ -45,8 +45,7 @@ Train for each article and then do mean-pooling for each day, then analyse its i
 >~~cons: Need to label a lot of articles mannually, takes lots of time~~</br>
 #### b. label the data by market reaction (e.g. 1 for intra-day raise, 0 for intra-day fall) </br>
 Need to train the model on all intra-day articles, this might be a problem, on math, try to figure out. </br>
->pros: Do not need to do labeling (since the label already exists), so we have huge training data to use (fantastic!) </br>
-       And the neural network actually learns itself which kind of news is more relevant to stock market change
+>pros: Do not need to do labeling (since the label already exists), so we have huge training data to use (fantastic!). And the neural network actually learns itself which kind of news is more relevant to stock market change. </br>
 >cons: Not really knowing what is the neural network is doing on the logic of the model </br>
 
 

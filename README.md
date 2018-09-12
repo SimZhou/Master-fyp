@@ -37,7 +37,8 @@ The word tokenization is going to be
 #### - LSTM on sentance level+mean-pooling on articles / LSTM on article level (to be chosed)
 #### 
 ### 2.2 Trainning Models
-To label the data by different ways we could have totally different ways: </br>
+To label the data by different ways we could have totally different ways: 
+
 ~~a. label the data for a particular sentiment orientation (e.g. 1 for positive, 0 for negative) </br>
 Train for each article and then do mean-pooling for each day, then analyse its influence on stock~~
 >~~pros: logically reasonable - positive/negative sentiment can affect stock price~~</br>

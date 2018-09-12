@@ -38,8 +38,8 @@ The word tokenization is going to be
 #### 
 ### 2.2 Trainning Models
 To label the data by different ways we could have totally different ways: </br>
-#### ~~a. label the data for a particular sentiment orientation (e.g. 1 for positive, 0 for negative) </br>
-Train for each article and then do mean-pooling for each day, then analyse its influence on stock~~
+#### ~~a. label the data for a particular sentiment orientation (e.g. 1 for positive, 0 for negative) ~~</br>
+~~Train for each article and then do mean-pooling for each day, then analyse its influence on stock~~
 >~~pros: logically reasonable - positive/negative sentiment can affect stock price ~~</br>
 >~~cons: Need to label a lot of articles mannually, takes lots of time ~~</br>
 #### b. label the data by market reaction (e.g. 1 for intra-day raise, 0 for intra-day fall) </br>

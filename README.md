@@ -7,8 +7,8 @@ In this project I will utilize machine learning/deep learning to analyse the rel
 Research Steps: 
 1. Crawling Financial & Business & Market news from fin websites，e.g SinaFinance, jrj, etc. 
 2. Do word-embedding with pre-trainned massive Chinese word vector provided by Li (2018). 
-3. Adopting LSTM, with Self-Attensive Mechenism provided by Google, I aggregate those word-vectors into sentence vectors, and then document vectors. Then an activation function is applied to train the model aligned with market change (either 0 for decline, 1 for rise) (Yang, etc., 2016). 
-(4.) Adding technical indicators, in order to increase the accuracy. (if time is permitted)
+3. Adopting LSTM, with Self-Attensive Mechenism provided by Google, I aggregate those word-vectors into sentence vectors, and then document vectors. Then an activation function is applied to train the model aligned with market change (either 0 for decline, 1 for rise) (Yang, etc., 2016). </br>
+4. *Adding technical indicators, in order to increase the accuracy. (if time is permitted)*
 
 
 
@@ -31,7 +31,9 @@ Since
 
 ## 2. Mothods
 ### 2.1 Word Tokenization
-The word tokenization is going to be
+The word tokenization is going to be implemented using 'Jieba' (see: https://pypi.org/project/jieba/), a pre-
+
+
 ### 2.2 Word/Token Embedding
 
 #### - LSTM on sentance level+mean-pooling on articles / LSTM on article level (to be chosed)

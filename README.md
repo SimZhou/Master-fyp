@@ -7,7 +7,7 @@ In this project I will utilize machine learning/deep learning to analyse the rel
 Research Steps: 
 1. Crawling Financial & Business & Market news from fin websites，e.g SinaFinance, jrj, etc. 
 2. Do word-embedding with pre-trainned massive Chinese word vector provided by Li (2018). 
-3. Adopting LSTM, with Self-Attensive Mechenism provided by Google, I aggregate those word-vectors into sentence vectors, and then document vectors. Then an activation function is applied to train the model aligned with market change (either 0 for decline, 1 for rise) (Yang, etc., 2016). </br>
+3. Adopting LSTM, with Self-Attensive Mechenism introduced by Google, aggregate those word-vectors into sentence vectors, and then document vectors. Then an activation function is used to train the model aligned with market change (either 0 for decline, 1 for rise) (Yang, etc., 2016). </br>
 4. *Adding technical indicators, in order to increase the accuracy. (if time is permitted)*
 
 
@@ -27,12 +27,11 @@ Daily data of stocks, including openning price and closing price, can be easily 
 
 ### 1.3 Calculated Technical Indicators & Macro-environment Factors 
 ###### (might not have sufficient time to do this but important for research purpose)
-Since 
+Since news should not be the only 
 
 ## 2. Mothods
 ### 2.1 Word Tokenization
-The word tokenization is going to be implemented using 'Jieba' (see: https://pypi.org/project/jieba/), a pre-
-
+The word tokenization is going to be implemented using 'Jieba' (see: https://pypi.org/project/jieba/), a python library  HMM. 
 
 ### 2.2 Word/Token Embedding
 
@@ -81,7 +80,7 @@ Yang, Z., Yang, D., Dyer, C., He, X., Smola, A. and Hovy, E., 2016. Hierarchical
 [2] [Mikolov T, Sutskever I, Chen K, et al. Distributed Representations of Words and Phrases and their Compositionality[J]. 2013, 26:3111-3119.](https://arxiv.org/pdf/1310.4546.pdf)（这篇文章针对Skip-gram模型计算复杂度高的问题提出了一些该进） 
 
 [3] [Presentation on Word2Vec](https://docs.google.com/file/d/0B7XkCwpI5KDYRWRnd1RzWXQ2TWc/edit)（这是NIPS 2013workshop上Mikolov的PPT报告）
-### B
+### B 
 
 
 ## Materials

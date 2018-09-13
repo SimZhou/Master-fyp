@@ -71,9 +71,15 @@ Need to train the model on all intra-day articles, this might be a problem, on m
 ## Potential References 
 ### Chinese Word-Embedding
 Chinese Word Vectors: Shen Li, Zhe Zhao, Renfen Hu, Wensi Li, Tao Liu, Xiaoyong Du, Analogical Reasoning on Chinese Morphological and Semantic Relations, ACL 2018. https://github.com/Embedding/Chinese-Word-Vectors
-(Refer as: Shen Li, Zhe Zhao, Renfen Hu, Wensi Li, Tao Liu, Xiaoyong Du, Analogical Reasoning on Chinese Morphological and Semantic Relations, ACL 2018. )
-### Attention Mechanism
-Yang, Z., Yang, D., Dyer, C., He, X., Smola, A. and Hovy, E., 2016. Hierarchical attention networks for document classification. In Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 1480-148
+(Refer as: Shen Li, Zhe Zhao, Renfen Hu, Wensi Li, Tao Liu, Xiaoyong Du, [Analogical Reasoning on Chinese Morphological and Semantic Relations](https://arxiv.org/pdf/1805.06504.pdf), ACL 2018. )
+
+### NN Architecture & Attention Mechanism
+Yang, Z., Yang, D., Dyer, C., He, X., Smola, A. and Hovy, E., 2016. [Hierarchical attention networks for document classification](https://www.cs.cmu.edu/~hovy/papers/16HLT-hierarchical-attention-networks.pdf). In Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 1480-148
+
+Lin, Z., Feng, M., Santos, C.N.D., Yu, M., Xiang, B., Zhou, B. and Bengio, Y., 2017. [A structured self-attentive sentence embedding](https://arxiv.org/pdf/1703.03130.pdf). arXiv preprint arXiv:1703.03130.
+
+Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A.N., Kaiser, Ł. and Polosukhin, I., 2017. [Attention is all you need. In Advances in Neural Information Processing Systems](http://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) (pp. 5998-6008).
+
 ### Skip-Gram Model
 [1] [Mikolov T, Chen K, Corrado G, et al. Efficient Estimation of Word Representations in Vector Space[J]. Computer Science, 2013.](https://arxiv.org/pdf/1301.3781.pdf)（这篇文章就讲了两个模型：CBOW 和 Skip-gram） 
 

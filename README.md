@@ -70,8 +70,7 @@ Need to train the model on all intra-day articles, this might be a problem, on m
 
 ## Potential References 
 ### Chinese Word-Embedding
-Chinese Word Vectors: Shen Li, Zhe Zhao, Renfen Hu, Wensi Li, Tao Liu, Xiaoyong Du, Analogical Reasoning on Chinese Morphological and Semantic Relations, ACL 2018. https://github.com/Embedding/Chinese-Word-Vectors
-(Refer as: Shen Li, Zhe Zhao, Renfen Hu, Wensi Li, Tao Liu, Xiaoyong Du, [Analogical Reasoning on Chinese Morphological and Semantic Relations](https://arxiv.org/pdf/1805.06504.pdf), ACL 2018. )
+Chinese Word Vectors: Shen Li, Zhe Zhao, Renfen Hu, Wensi Li, Tao Liu, Xiaoyong Du, [Analogical Reasoning on Chinese Morphological and Semantic Relations](https://arxiv.org/pdf/1805.06504.pdf), ACL 2018. (on github: https://github.com/Embedding/Chinese-Word-Vectors)
 
 ### NN Architecture & Attention Mechanism
 Yang, Z., Yang, D., Dyer, C., He, X., Smola, A. and Hovy, E., 2016. [Hierarchical attention networks for document classification](https://www.cs.cmu.edu/~hovy/papers/16HLT-hierarchical-attention-networks.pdf). In Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 1480-148

@@ -27,7 +27,7 @@ Daily data of stocks, including openning price and closing price, can be easily 
 
 ### 1.3 Calculated Technical Indicators & Macro-environment Factors 
 ###### (might not have sufficient time to do this but important for research purpose)
-Since news should not be the only 
+In finance there is two ways Since news should not be the only factor influencing stock change, 
 
 ## 2. Mothods
 ### 2.1 Word Tokenization
@@ -85,7 +85,12 @@ Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A.N., Kai
 [2] [Mikolov T, Sutskever I, Chen K, et al. Distributed Representations of Words and Phrases and their Compositionality[J]. 2013, 26:3111-3119.](https://arxiv.org/pdf/1310.4546.pdf)（这篇文章针对Skip-gram模型计算复杂度高的问题提出了一些该进） 
 
 [3] [Presentation on Word2Vec](https://docs.google.com/file/d/0B7XkCwpI5KDYRWRnd1RzWXQ2TWc/edit)（这是NIPS 2013workshop上Mikolov的PPT报告）
-### B 
+
+### Applications for using Deep Learning on Finance Market
+M. R. Vargas, B. S. L. P. de Lima and A. G. Evsukoff, "[Deep learning for stock market prediction from financial news articles](https://ieeexplore.ieee.org/iel7/7989854/7995287/07995302.pdf)," 2017 IEEE International Conference on Computational Intelligence and Virtual Environments for Measurement Systems and Applications (CIVEMSA), Annecy, 2017, pp. 60-65.
+
+Fischer, T., Krauss, C., 2018. [Deep learning with long short-term memory networks for financial market predictions](https://www.sciencedirect.com/science/article/abs/pii/S0377221717310652), European Journal of Operational Research, Volume 270, Issue 2. pp 654-669
+
 
 
 ## Materials

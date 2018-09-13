@@ -27,14 +27,14 @@ Daily data of stocks, including openning price and closing price, can be easily 
 
 ### 1.3 Calculated Technical Indicators & Macro-environment Factors 
 ###### (might not have sufficient time to do this but important for research purpose)
-In finance there is two ways Since news should not be the only factor influencing stock change, 
+Since news should not be the only factor influencing stock change, we should as well include other factors in our model. In stock market there are two ways to make predictions on market change, namely technical analysis and fundamental analysis (Vargas, 2017). While fundamental analysis mainly focuses on news coverage and basic operation status of the company, technical analysis focuses on the past trend of the market change. 
 
 ## 2. Mothods
 ### 2.1 Word Tokenization
-The word tokenization is going to be implemented using 'Jieba' (see: https://pypi.org/project/jieba/), a python library  HMM. 
+The word tokenization is going to be implemented using 'Jieba' (see: https://pypi.org/project/jieba/), a tool which segments chinese words from sentences by HMM model. The tokenization allows user-defined dictionaries so that I can add those financial terms which may not be correctly tokenized by the model. 
 
 ### 2.2 Word/Token Embedding
-
+Firstly introduced by Mikolov (2013), word2vec is a word-embedding method which transforms text words into digit vector spaces. Word2vec shows many advantages in re
 #### - LSTM on sentance level+mean-pooling on articles / LSTM on article level (to be chosed)
 #### 
 ### 2.2 Trainning Models
